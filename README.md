@@ -1,2 +1,2 @@
 # BC1
-nejaka yaciatocna analyza
+nejaka zaciatocna analyza
